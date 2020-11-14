@@ -248,7 +248,7 @@ pada awal sebelum diubah, jika kita mengunjungi penanjakan.semerue09.pw/public/i
 
 <img width="960" alt="50" src="https://user-images.githubusercontent.com/61228737/99069856-bc2f0700-25e1-11eb-9936-447bc7194e11.png">
 
-edit file /etc/apache2/sites-available/penanjakan.semerue09.pw.conf seperti di bawah ini
+pastikan file /etc/apache2/sites-available/penanjakan.semerue09.pw.conf seperti di bawah ini
 
 <img width="380" alt="51" src="https://user-images.githubusercontent.com/61228737/99069864-bf29f780-25e1-11eb-9758-353d372015b3.png">
 
